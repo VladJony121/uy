@@ -290,10 +290,9 @@ text-decoration: none;
 .title {
     background:  url('../img/imgonline-com-ua-Resize-KJBXdkKTIj.jpg')   no-repeat;
   max-width: 100%;
-max-height: 100%;
+mheight: 100%;
 background-size: cover;
 background-position: center center;
-background-attachment: fixed;
 }
 
 .title__body {
